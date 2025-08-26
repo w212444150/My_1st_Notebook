@@ -1,2 +1,2 @@
-# Jupyter_Exoloration_1st
+# Jupyter_Exploration_1st
 Creating a repository on Git utilizing Jupyter Notebook to write out a few lines of text/markdown and code for Computer Vision class with Professor McManus.
